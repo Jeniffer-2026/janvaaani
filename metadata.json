@@ -1,0 +1,8 @@
+{
+  "name": "JANVAANI",
+  "description": "AI-Powered Unified Citizen Grievance Redressal System with Aadhaar authentication and voice support.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
